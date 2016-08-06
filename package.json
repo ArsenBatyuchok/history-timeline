@@ -1,0 +1,30 @@
+{
+  "name": "history-timeline",
+  "version": "0.0.0",
+  "description": "History Timeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArsenBatyuchok/history-timeline.git"
+  },
+  "author": "Arsen Batyuchok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArsenBatyuchok/history-timeline/issues"
+  },
+  "homepage": "https://github.com/ArsenBatyuchok/history-timeline#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.1.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-watch": "^4.3.9"
+  }
+}
