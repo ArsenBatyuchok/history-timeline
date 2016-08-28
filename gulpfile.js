@@ -95,14 +95,14 @@ gulp.task('js', function() {
 
     var vendorStream = 
         gulp.src([
-            jsSrc + '/vendor/*.js'
+            jsSrc + '/vendor/*.js',
         ])
         .pipe(gulpif(!deploy, gulp.dest(jsDist+'/vendor')));
 
     var appStream = 
         gulp.src([
             // app modules, must preserve order for concat (app.js always the last)
-            jsSrc + '/app.js',
+            jsSrc + '/**/*.js',
         ])
         .pipe(gulpif(!deploy, gulp.dest(jsDist)));
 
