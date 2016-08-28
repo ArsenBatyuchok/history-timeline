@@ -140,7 +140,7 @@ gulp.task('injecthtml', function () {
             ] , {read: false}),
             { 
                 transform: generateScriptTag('defer'),
-                starttag: '<!-- inject:head:{{ext}} -->' 
+                starttag: '<!-- inject:bodyend:{{ext}} -->' 
             }
         ))
         .pipe(gulpif(deploy, strip())) // strip html comments/tags
