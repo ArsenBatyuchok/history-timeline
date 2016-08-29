@@ -95,7 +95,8 @@ gulp.task('js', function() {
 
     var vendorStream = 
         gulp.src([
-            jsSrc + '/vendor/*.js',
+            './node_modules/d3/build/d3.min.js',
+            jsSrc + '/vendor/*.js'
         ])
         .pipe(gulpif(!deploy, gulp.dest(jsDist+'/vendor')));
 
@@ -108,7 +109,7 @@ gulp.task('js', function() {
 
     if (deploy) {
         return series(vendorStream, appStream)   // combine streams in order (vendors first)
-            .pipe(concat('index.js'))
+            .pipe(concat('timeline-app.js'))
             .pipe(strip())
             .pipe(stripDebug())
             .pipe(uglify())  // NB! UglifyJS re-arranges declarations! (safely?)
@@ -134,9 +135,10 @@ gulp.task('injecthtml', function () {
             gulp.src([
                 // if dev (default), preserve <script src='..'> order
                 jsDist + '/vendor/*.js',
-                jsDist + '/index.js', 
+                jsDist + '/timeline.js', 
+                jsDist + '/startup.js',
                 // if deploy 
-                jsDist + '/history-timeline-app{,.min}.js' //  single-file app (deploy)
+                jsDist + '/timeline-app{,.min}.js' //  single-file app (deploy)
             ] , {read: false}),
             { 
                 transform: generateScriptTag('defer'),
