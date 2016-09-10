@@ -1,0 +1,70 @@
+// NB!
+// • CSS transforms not supported in SVG !?
+// • margin/padding not applicable to svg elements
+
+#durer-timeline {
+    border: 2px solid #222;
+    padding: 50px 40px;
+}
+
+.events-g {
+//     transform: tranlsate(100, 100);  
+//     margin-left: 100px; 
+}
+
+
+.timeline-baseline {
+    stroke-width: 2;
+    stroke: white;
+}
+
+.month-tick {
+    // transform: scale(1,1.2);
+    stroke-width: 1;
+    stroke: white;
+    &.has-event {
+        transform: scale(1,30);
+        stroke-width: 1.5;
+        stroke: red;
+    }
+}
+
+.year-tick {
+    // transform: scale(1,1.2);
+    stroke-width: 3;
+    stroke: white;
+}
+
+.year-label {
+    font-family: Georgia;
+    font-size: 16px;
+    fill: white; 
+    text-anchor: middle;
+}
+
+@title-width: 250px;
+@title-height: 100px;
+.event-title {
+    font-family: Helvetica;
+    font-size: 14px; 
+    color: white;
+
+    // border: 1px solid white;
+    text-align: center;
+    vertical-align: bottom;
+    width: @title-width;
+    height: @title-height;
+    display: table-cell;
+}
+
+.event-body {
+    background: none;
+    margin: 0 auto;
+    width: @title-width;
+}
+
+.event-group > foreignobject {
+    // width is automatically set to yearWidth;
+    height: @title-height;
+    y: -150;
+}

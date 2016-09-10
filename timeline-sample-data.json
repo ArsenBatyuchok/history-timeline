@@ -1,0 +1,1128 @@
+[
+    {
+        "evenType": "Life Event",
+        "title": "Third of the eighteen children, Albrecht Durer was born in the family of Albrecht Durer the Elder, hungarian-born goldsmith and his wife Barbara Holper",
+        "dateFrom": "1471, January 21",
+        "dateTo": "",
+        "compareDate": "1471-01-11T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Formal education, either in the parish school of St.Sebaldus or, as seem more likely, in one of Nuremberg's privately run \"German schools\"",
+        "dateFrom": "1477",
+        "dateTo": "1483",
+        "compareDate": "1476-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Apprenticeship in father's goldsmith workshop",
+        "dateFrom": "1482",
+        "dateTo": "1485",
+        "compareDate": "1481-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Apprenticeship to the Nuremberg painter/woodcut designer Michael Wolgemut",
+        "dateFrom": "1486, November 30",
+        "dateTo": "1489",
+        "compareDate": "1486-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "The Wire-drawing Mill",
+        "dateFrom": "1489",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Watercolor and gouache on paper",
+            "size": "29 x 43",
+            "imageURL": "http://www.artchive.com/artchive/d/durer/durer_mill.jpg"
+        },
+        "compareDate": "1488-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Alliance Coat of Arms of the Dürer and Holper Families",
+        "dateFrom": "1490",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "47 × 39",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Durer%2C_ritratto_del_padre%2C_uffizi%2C_stemmi_durer_e_holper.jpg/150px-Durer%2C_ritratto_del_padre%2C_uffizi%2C_stemmi_durer_e_holper.jpg"
+        },
+        "compareDate": "1489-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of Dürer's Father (diptych wing)",
+        "dateFrom": "1490",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "47.5 × 39.5",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Albrecht_D%C3%BCrer_-_Ritratto_del_padre_-_Google_Art_Project.jpg/150px-Albrecht_D%C3%BCrer_-_Ritratto_del_padre_-_Google_Art_Project.jpg"
+        },
+        "compareDate": "1489-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of Barbara Dürer (diptych wing)",
+        "dateFrom": "1490",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "47 × 38",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/1490_Duerer_Bildnis_von_Barbara_Duerer_geb._Holper_anagoria.JPG/150px-1490_Duerer_Bildnis_von_Barbara_Duerer_geb._Holper_anagoria.JPG"
+        },
+        "compareDate": "1489-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Journey in Basel as designer of woodcut illustrations",
+        "dateFrom": "1492",
+        "dateTo": "1493",
+        "compareDate": "1491-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Visit to the Colmar workshop of the Alsatian painter-engraver Martin Schongauer, unaware that Schongauer had already died, probably of the plague. Cordially received by Schongauer's brothers",
+        "dateFrom": "1492",
+        "dateTo": "",
+        "compareDate": "1491-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Engagement to Agnes Frey",
+        "dateFrom": "1493",
+        "dateTo": "",
+        "compareDate": "1492-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Man of Sorrows",
+        "dateFrom": "1493",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "30 × 19",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Albrecht_D%C3%BCrer_-_Christ_as_the_Man_of_Sorrows_-_WGA06911.jpg/150px-Albrecht_D%C3%BCrer_-_Christ_as_the_Man_of_Sorrows_-_WGA06911.jpg"
+        },
+        "compareDate": "1492-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Self-portrait",
+        "dateFrom": "1493",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on linen, transferred from vellum",
+            "size": "56.5 × 44.5",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Albrecht-self.jpg/150px-Albrecht-self.jpg"
+        },
+        "compareDate": "1492-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Marriage to Agnes Frey",
+        "dateFrom": "1494, July 7",
+        "dateTo": "",
+        "compareDate": "1494-06-27T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Departure for extended trip to Northern Italy",
+        "dateFrom": "1494, September",
+        "dateTo": "",
+        "compareDate": "1494-08-21T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Virgin and Child before an Archway",
+        "dateFrom": "1495",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "48 × 36",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Albrecht_D%C3%BCrer_062.jpg/150px-Albrecht_D%C3%BCrer_062.jpg"
+        },
+        "compareDate": "1494-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Landscape watercolor views of Northern Italy and the Tyrol - among first independent landscapes of actual places in Western art",
+        "dateFrom": "1495",
+        "dateTo": "",
+        "compareDate": "1494-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "First formal commission: Partrait of Friedrich the Wise of Saxony, future protector of Martin Luther",
+        "dateFrom": "1496",
+        "dateTo": "",
+        "compareDate": "1495-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Lot and His Daughters",
+        "dateFrom": "1496",
+        "dateTo": "1499",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "52.4 × 42.2",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Albrecht_D%C3%BCrer_-_Lot_and_His_Daughters_%28reverse%29_-_Google_Art_Project.jpg/150px-Albrecht_D%C3%BCrer_-_Lot_and_His_Daughters_%28reverse%29_-_Google_Art_Project.jpg"
+        },
+        "compareDate": "1495-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Madonna and Child",
+        "dateFrom": "1496",
+        "dateTo": "1499",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "52.4 × 42.2",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Albrecht_D%C3%BCrer_-_Madonna_and_Child_%28obverse%29_-_Google_Art_Project.jpg/150px-Albrecht_D%C3%BCrer_-_Madonna_and_Child_%28obverse%29_-_Google_Art_Project.jpg"
+        },
+        "compareDate": "1495-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "The Seven Sorrows of the Virgin",
+        "dateFrom": "1496",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "109 × 43 (central panel), 63 × 46 (each side panel)",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Durer%2C_polittico_dei_sette_dolori%2C_ricostruzione.jpg/150px-Durer%2C_polittico_dei_sette_dolori%2C_ricostruzione.jpg"
+        },
+        "compareDate": "1495-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Heavenly scene",
+        "dateFrom": "1496",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "23 × 17",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Albrecht_durer_heavenly_body_in_the_night_sky.jpg/150px-Albrecht_durer_heavenly_body_in_the_night_sky.jpg"
+        },
+        "compareDate": "1495-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Saint Jerome in the Wilderness",
+        "dateFrom": "1496",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "23 × 17",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Albrecht_D%C3%BCrer_012.jpg/150px-Albrecht_D%C3%BCrer_012.jpg"
+        },
+        "compareDate": "1495-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Dresden Altarpiece",
+        "dateFrom": "1496",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on canvas",
+            "size": "117 × 96.5 (central panel),114 × 45 (each wing)",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Albrecht_D%C3%BCrer_065.jpg/150px-Albrecht_D%C3%BCrer_065.jpg"
+        },
+        "compareDate": "1495-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of Elector Frederick the Wise of Saxony",
+        "dateFrom": "1496",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Tempera on canvas",
+            "size": "76 × 57",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Albrecht_D%C3%BCrer_-_Portrait_of_Elector_Frederick_the_Wise_of_Saxony_-_WGA6914.jpg/150px-Albrecht_D%C3%BCrer_-_Portrait_of_Elector_Frederick_the_Wise_of_Saxony_-_WGA6914.jpg"
+        },
+        "compareDate": "1495-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of a Man",
+        "dateFrom": "1497",
+        "dateTo": "1498",
+        "extraInfo": {
+            "technique": "Oil on parchment on panel",
+            "size": "24.2 × 20",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Albrecht_D%C3%BCrer_057.jpg/150px-Albrecht_D%C3%BCrer_057.jpg"
+        },
+        "compareDate": "1496-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of a Young Fürleger with Her Hair Done Up",
+        "dateFrom": "1497",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on canvas",
+            "size": "56.5 × 42.5",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Albrecht_D%C3%BCrer_015.jpg/150px-Albrecht_D%C3%BCrer_015.jpg"
+        },
+        "compareDate": "1496-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of a Young Woman",
+        "dateFrom": "1497",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on canvas",
+            "size": "56 × 43",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Albrecht_D%C3%BCrer_016.jpg/150px-Albrecht_D%C3%BCrer_016.jpg"
+        },
+        "compareDate": "1496-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "The Painter's Father",
+        "dateFrom": "1497",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "51 × 40.3",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Albrecht_D%C3%BCrer_-_Portrait_of_D%C3%BCrer%27s_Father_at_70.jpg/150px-Albrecht_D%C3%BCrer_-_Portrait_of_D%C3%BCrer%27s_Father_at_70.jpg"
+        },
+        "compareDate": "1496-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Hired sales agents to sell his graphic art abroad. Installed a printing press in the family home \"Under the Fortress\"",
+        "dateFrom": "1497",
+        "dateTo": "",
+        "compareDate": "1496-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Citizenship in Nuremberg",
+        "dateFrom": "1498",
+        "dateTo": "",
+        "compareDate": "1497-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Lamentation",
+        "dateFrom": "1498",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "147 × 118",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Albrecht_D%C3%BCrer_011.jpg/150px-Albrecht_D%C3%BCrer_011.jpg"
+        },
+        "compareDate": "1497-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Self-Portrait",
+        "dateFrom": "1498",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "52.5 × 41",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Selbstportr%C3%A4t%2C_by_Albrecht_D%C3%BCrer%2C_from_Prado_in_Google_Earth.jpg/150px-Selbstportr%C3%A4t%2C_by_Albrecht_D%C3%BCrer%2C_from_Prado_in_Google_Earth.jpg"
+        },
+        "compareDate": "1497-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of St Sebastian with an Arrow",
+        "dateFrom": "1499",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "52 × 40",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Albrecht_D%C3%BCrer_098.jpg/150px-Albrecht_D%C3%BCrer_098.jpg"
+        },
+        "compareDate": "1498-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of Oswolt Krel",
+        "dateFrom": "1499",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "50 × 39 (central), 50 × 16 (each side panel)",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Albrecht_D%C3%BCrer_-_Portrait_of_Oswolt_Krel_-_WGA6933.jpg/150px-Albrecht_D%C3%BCrer_-_Portrait_of_Oswolt_Krel_-_WGA6933.jpg"
+        },
+        "compareDate": "1498-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of Elsbeth Tucher",
+        "dateFrom": "1499",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "29 × 23",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Albrecht_D%C3%BCrer_073.jpg/150px-Albrecht_D%C3%BCrer_073.jpg"
+        },
+        "compareDate": "1498-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Felicitas Tucher, née Rieter",
+        "dateFrom": "1499",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "28 × 24",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Albrecht_D%C3%BCrer_074.jpg/150px-Albrecht_D%C3%BCrer_074.jpg"
+        },
+        "compareDate": "1498-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Hans Tucher",
+        "dateFrom": "1499",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "28 × 24",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Albrecht_D%C3%BCrer_077.jpg/150px-Albrecht_D%C3%BCrer_077.jpg"
+        },
+        "compareDate": "1498-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Combined Coat-of-Arms of the Tucher and Rieter Families",
+        "dateFrom": "1499",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "28 × 24",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Durer%2C_stemmi_tuchner.jpg/150px-Durer%2C_stemmi_tuchner.jpg"
+        },
+        "compareDate": "1498-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Jacopo dei Barbari arrives in Nuremberg. Hans Suss from Kulmbach joins workshop",
+        "dateFrom": "1500",
+        "dateTo": "",
+        "compareDate": "1499-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Lamentation for Christ",
+        "dateFrom": "1500",
+        "dateTo": "1503",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "151 × 121",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Albrecht_Duerer-_Lamentation_for_Christ.JPG/150px-Albrecht_Duerer-_Lamentation_for_Christ.JPG"
+        },
+        "compareDate": "1499-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Paumgartner Altar",
+        "dateFrom": "1500",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "155 × 126.1 (central), 151 × 61 (each wing)",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Albrecht_D%C3%BCrer_-_Paumgartner-Altar_-_Alte_Pinakothek_M%C3%BCnchen.jpg/150px-Albrecht_D%C3%BCrer_-_Paumgartner-Altar_-_Alte_Pinakothek_M%C3%BCnchen.jpg"
+        },
+        "compareDate": "1499-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Heracles and the Stymphalian birds",
+        "dateFrom": "1500",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "87 × 110",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Albrecht_D%C3%BCrer_042.jpg/150px-Albrecht_D%C3%BCrer_042.jpg"
+        },
+        "compareDate": "1499-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Self-Portrait with Fur-Trimmed Robe",
+        "dateFrom": "1500",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "67.1 × 48.9",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Durer_selfporitrait.jpg/150px-Durer_selfporitrait.jpg"
+        },
+        "compareDate": "1499-11-20T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Death of Albrecht Durer the Elder",
+        "dateFrom": "1502",
+        "dateTo": "",
+        "compareDate": "1501-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Jabach Altarpiece",
+        "dateFrom": "1503",
+        "dateTo": "1504",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "94 × 51 (left), 94 x 57 (right)",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jarbach_Altarpiece_01.jpg/150px-Jarbach_Altarpiece_01.jpg"
+        },
+        "compareDate": "1502-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Madonna and Child at the Breast",
+        "dateFrom": "1503",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "24.1 cm × 18.3",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Albrecht_D%C3%BCrer_059.jpg/150px-Albrecht_D%C3%BCrer_059.jpg"
+        },
+        "compareDate": "1502-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of a Man",
+        "dateFrom": "1504",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "43 × 29",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Albrecht_D%C3%BCrer_-_Portrait_of_a_Man_-_WGA6957.jpg/150px-Albrecht_D%C3%BCrer_-_Portrait_of_a_Man_-_WGA6957.jpg"
+        },
+        "compareDate": "1503-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Adoration of the Magi",
+        "dateFrom": "1504",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "99 × 113.5",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Albrecht_D%C3%BCrer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg/150px-Albrecht_D%C3%BCrer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg"
+        },
+        "compareDate": "1503-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Outbreak of plague in Nuremberg",
+        "dateFrom": "1505",
+        "dateTo": "",
+        "compareDate": "1504-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Salvator Mundi [unfinished]",
+        "dateFrom": "1505",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "58.1 × 47",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Albrecht_D%C3%BCrer_100.jpg/150px-Albrecht_D%C3%BCrer_100.jpg"
+        },
+        "compareDate": "1504-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of a Venetian Woman",
+        "dateFrom": "1505",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "32.5 × 24.5",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Albrecht_D%C3%BCrer_-_Portrait_of_a_Young_Venetian_Woman_-_Google_Art_Project.jpg/150px-Albrecht_D%C3%BCrer_-_Portrait_of_a_Young_Venetian_Woman_-_Google_Art_Project.jpg"
+        },
+        "compareDate": "1504-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of a Venetian Woman",
+        "dateFrom": "1506",
+        "dateTo": "1507",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "28.5 × 21.5",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Albrecht_D%C3%BCrer_-_Bildnis_einer_jungen_Venezianerin_-_Google_Art_Project.jpg/150px-Albrecht_D%C3%BCrer_-_Bildnis_einer_jungen_Venezianerin_-_Google_Art_Project.jpg"
+        },
+        "compareDate": "1505-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Christ Among the Doctors",
+        "dateFrom": "1506",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "64.3 × 80.3",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Albrecht_D%C3%BCrer_-_Jesus_among_the_Doctors_-_Google_Art_Project.jpg/150px-Albrecht_D%C3%BCrer_-_Jesus_among_the_Doctors_-_Google_Art_Project.jpg"
+        },
+        "compareDate": "1505-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Madonna with the Siskin",
+        "dateFrom": "1506",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "91 × 76",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Albrecht_D%C3%BCrer_056.jpg/150px-Albrecht_D%C3%BCrer_056.jpg"
+        },
+        "compareDate": "1505-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of a Young Man",
+        "dateFrom": "1506",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "50 × 40",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Albrecht_D%C3%BCrer_-_Portrait_of_a_Young_Man_-_Palazzo_Rosso_Genoa.jpg/150px-Albrecht_D%C3%BCrer_-_Portrait_of_a_Young_Man_-_Palazzo_Rosso_Genoa.jpg"
+        },
+        "compareDate": "1505-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Feast of the Rose Garlands",
+        "dateFrom": "1506",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "162 × 194.5",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Albrecht_D%C3%BCrer_099.jpg/150px-Albrecht_D%C3%BCrer_099.jpg"
+        },
+        "compareDate": "1505-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of Burkard von Speyer",
+        "dateFrom": "1506",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "31.7 × 26",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Albrecht_D%C3%BCrer_-_Burkhard_von_Speyer_-_Google_Art_Project.jpg/150px-Albrecht_D%C3%BCrer_-_Burkhard_von_Speyer_-_Google_Art_Project.jpg"
+        },
+        "compareDate": "1505-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Letter",
+        "dateFrom": "1506, January 6",
+        "dateTo": "",
+        "extraInfo": {
+            "addressee": "to Willibald Pirckheimer"
+        },
+        "compareDate": "1505-12-26T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of a Young Girl",
+        "dateFrom": "1507",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel transferred from parchment",
+            "size": "30 × 20",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albrecht_D%C3%BCrer_092.jpg/150px-Albrecht_D%C3%BCrer_092.jpg"
+        },
+        "compareDate": "1506-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Allegory of Avarice",
+        "dateFrom": "1507",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "35 × 29",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Albrecht_D%C3%BCrer_004b.jpg/150px-Albrecht_D%C3%BCrer_004b.jpg"
+        },
+        "compareDate": "1506-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of a Young Man",
+        "dateFrom": "1507",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "35 × 29",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Albrecht_D%C3%BCrer_094.jpg/150px-Albrecht_D%C3%BCrer_094.jpg"
+        },
+        "compareDate": "1506-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Adam and Eve",
+        "dateFrom": "1507",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "209 × 81 (each panel)",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Albrecht_D%C3%BCrer_-_Adam_and_Eve_%28Prado%29_2.jpg/150px-Albrecht_D%C3%BCrer_-_Adam_and_Eve_%28Prado%29_2.jpg"
+        },
+        "compareDate": "1506-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Commission from Jacob Heller of Frankfurt, for the altarpiece of the Coronation of the Virgin",
+        "dateFrom": "1508",
+        "dateTo": "",
+        "compareDate": "1507-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Heller Altar [copy]",
+        "dateFrom": "1508",
+        "dateTo": "1509",
+        "extraInfo": {
+            "technique": "Tempera and oil on panel",
+            "size": "189 × 138 (central element)",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Albrecht_D%C3%BCrer_041.jpg/150px-Albrecht_D%C3%BCrer_041.jpg"
+        },
+        "compareDate": "1507-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "The Martyrdom of the Ten Thousand",
+        "dateFrom": "1508",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on canvas transferred from panel",
+            "size": "101 × 89",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Albrecht_D%C3%BCrer_-_Marter_der_zehntausend_Christen_%28Yorck_Project%29.jpg/150px-Albrecht_D%C3%BCrer_-_Marter_der_zehntausend_Christen_%28Yorck_Project%29.jpg"
+        },
+        "compareDate": "1507-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Exchange of drawings with Raphael",
+        "dateFrom": "1509",
+        "dateTo": "",
+        "compareDate": "1508-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Membership in the larger (and less prestigious) of the two chambers of the City Council",
+        "dateFrom": "1509",
+        "dateTo": "",
+        "compareDate": "1508-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Purchase (275 gulden) of the large house by the Tiergartner Tor",
+        "dateFrom": "1509",
+        "dateTo": "",
+        "compareDate": "1508-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Holy Family",
+        "dateFrom": "1509",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "31 × 39",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/D%C3%BCrer_-_Die_heilige_Familie2.jpg/150px-D%C3%BCrer_-_Die_heilige_Familie2.jpg"
+        },
+        "compareDate": "1508-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Commission for the portraits of the Holy Roman emperors Charlemagne and Sigismund",
+        "dateFrom": "1510",
+        "dateTo": "",
+        "compareDate": "1509-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "The Adoration of the Trinity (Landauer Altar)",
+        "dateFrom": "1511",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "135 × 123.4",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Albrecht_D%C3%BCrer_003.jpg/150px-Albrecht_D%C3%BCrer_003.jpg"
+        },
+        "compareDate": "1510-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Purchase of garden plot outside the city wall",
+        "dateFrom": "1512",
+        "dateTo": "",
+        "compareDate": "1511-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Beginning of Durer's commissions for Emperor Maximilian I",
+        "dateFrom": "1512",
+        "dateTo": "",
+        "compareDate": "1511-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Emperor Charlemagne and Emperor Sigismund",
+        "dateFrom": "1512",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil and tempera on panel",
+            "size": "215 × 115 (each, including frame)",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Albrecht_D%C3%BCrer_-_Emperor_Charlemagne_and_Emperor_Sigismund_-_WGA06997.jpg/150px-Albrecht_D%C3%BCrer_-_Emperor_Charlemagne_and_Emperor_Sigismund_-_WGA06997.jpg"
+        },
+        "compareDate": "1511-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Madonna of the Pear",
+        "dateFrom": "1512",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "49 × 37",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Albrecht_D%C3%BCrer_-_Virgin_and_child_with_a_pear_-_Google_Art_Project.jpg/150px-Albrecht_D%C3%BCrer_-_Virgin_and_child_with_a_pear_-_Google_Art_Project.jpg"
+        },
+        "compareDate": "1511-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Death of Durer's mother",
+        "dateFrom": "1514, May 16",
+        "dateTo": "",
+        "compareDate": "1514-05-05T21:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Completion of the commissions for Maximilian, and grant of a pension of 100 gulden per year",
+        "dateFrom": "1515",
+        "dateTo": "",
+        "compareDate": "1514-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "The Madonna of the Carnation",
+        "dateFrom": "1516",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "36 x 25",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Albrecht_D%C3%BCrer_-_The_Madonna_of_the_Carnation_-_WGA7000.jpg/150px-Albrecht_D%C3%BCrer_-_The_Madonna_of_the_Carnation_-_WGA7000.jpg"
+        },
+        "compareDate": "1515-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "The Apostles Philip and James",
+        "dateFrom": "1516",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Tempera on panel",
+            "size": "45 × 38 and 46 × 37",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Durer%2C_santi_giacomo_e_filippo.jpg/150px-Durer%2C_santi_giacomo_e_filippo.jpg"
+        },
+        "compareDate": "1515-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of a Clergyman",
+        "dateFrom": "1516",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on parchment on fabric",
+            "size": "41.7 × 32.7",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Albrecht_D%C3%BCrer_-_Bildnis_eines_Geistlichen_%28National_Gallery_of_Art%29.jpg/150px-Albrecht_D%C3%BCrer_-_Bildnis_eines_Geistlichen_%28National_Gallery_of_Art%29.jpg"
+        },
+        "compareDate": "1515-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of Michael Wolgemut",
+        "dateFrom": "1516",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil and tempera on panel",
+            "size": "29 × 27",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Albrecht_D%C3%BCrer_085.jpg/150px-Albrecht_D%C3%BCrer_085.jpg"
+        },
+        "compareDate": "1515-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Visits Bishop Georg III von Limburg in Barberg",
+        "dateFrom": "1517",
+        "dateTo": "",
+        "compareDate": "1516-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "The Virgin Mary in Prayer",
+        "dateFrom": "1518",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "53 × 43",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Durer%2C_madonna_in_preghiera.jpg/150px-Durer%2C_madonna_in_preghiera.jpg"
+        },
+        "compareDate": "1517-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Travels to attend the Imperial Diet to portray Maximilian I",
+        "dateFrom": "1518",
+        "dateTo": "",
+        "compareDate": "1517-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "The Suicide of Lucretia",
+        "dateFrom": "1518",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "168 × 74.8",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Albrecht_D%C3%BCrer_101.jpg/150px-Albrecht_D%C3%BCrer_101.jpg"
+        },
+        "compareDate": "1517-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Emperor Maximilian I",
+        "dateFrom": "1519",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Tempera on canvas",
+            "size": "83 × 65",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Albrecht_D%C3%BCrer_083.jpg/150px-Albrecht_D%C3%BCrer_083.jpg"
+        },
+        "compareDate": "1518-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Emperor Maximilian I",
+        "dateFrom": "1519",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "74 × 61.5",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Albrecht_D%C3%BCrer_-_Portrait_of_Maximilian_I_-_Google_Art_Project.jpg/150px-Albrecht_D%C3%BCrer_-_Portrait_of_Maximilian_I_-_Google_Art_Project.jpg"
+        },
+        "compareDate": "1518-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "St Anne with the Virgin and Child",
+        "dateFrom": "1519",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil and tempera on canvas,transferred from panel",
+            "size": "60 × 50",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Albrecht_D%C3%BCrer_046.jpg/150px-Albrecht_D%C3%BCrer_046.jpg"
+        },
+        "compareDate": "1518-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Death of Maximilian I. Invalidation of Durer's pension",
+        "dateFrom": "1519, January 12",
+        "dateTo": "",
+        "compareDate": "1519-01-01T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Head of a Woman",
+        "dateFrom": "1520",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Tempera on canvas",
+            "size": "25.5 × 21.5",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Albrecht_D%C3%BCrer_-_Head_of_a_Woman_-_WGA7014.jpg/150px-Albrecht_D%C3%BCrer_-_Head_of_a_Woman_-_WGA7014.jpg"
+        },
+        "compareDate": "1519-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of a Man",
+        "dateFrom": "1520",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Distemper on canvas mounted on panel",
+            "size": "40 × 30",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Albrecht_D%C3%BCrer_090.jpg/150px-Albrecht_D%C3%BCrer_090.jpg"
+        },
+        "compareDate": "1519-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of Jakob Fugger the Wealthy",
+        "dateFrom": "1520",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Tempera on canvas",
+            "size": "69 × 53",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Albrecht_D%C3%BCrer_080.jpg/150px-Albrecht_D%C3%BCrer_080.jpg"
+        },
+        "compareDate": "1519-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of a Man with Beret and Scroll",
+        "dateFrom": "1521",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "50 × 36",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Albrecht_D%C3%BCrer_-_Bildnis_eines_unbekannten_Mannes.jpg/150px-Albrecht_D%C3%BCrer_-_Bildnis_eines_unbekannten_Mannes.jpg"
+        },
+        "compareDate": "1520-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "St. Jerome in His Study",
+        "dateFrom": "1521",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "60 × 48",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Albrecht_D%C3%BCrer_035.jpg/150px-Albrecht_D%C3%BCrer_035.jpg"
+        },
+        "compareDate": "1520-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of a Man (Rodrigo de Almada)",
+        "dateFrom": "1521",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "50 × 32",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Albrecht_D%C3%BCrer_087.jpg/150px-Albrecht_D%C3%BCrer_087.jpg"
+        },
+        "compareDate": "1520-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of Bernhard von Reesen",
+        "dateFrom": "1521",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "45.4 × 31.5",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Albrecht_D%C3%BCrer_-_Portrait_of_Bernhard_von_Reesen_-_Google_Art_Project.jpg/150px-Albrecht_D%C3%BCrer_-_Portrait_of_Bernhard_von_Reesen_-_Google_Art_Project.jpg"
+        },
+        "compareDate": "1520-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Virgin and Child with Saint Anne",
+        "dateFrom": "1523",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "75 x 64.5",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/D%C3%BCrer_Virgin_and_Child.jpg/150px-D%C3%BCrer_Virgin_and_Child.jpg"
+        },
+        "compareDate": "1522-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "The Four Apostles",
+        "dateFrom": "1526",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "212.8 × 76.2  (each panel)",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vier_Apostel_%28Albrecht_Duerer%29.jpg/150px-Vier_Apostel_%28Albrecht_Duerer%29.jpg"
+        },
+        "compareDate": "1525-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of Johannes Kleberger",
+        "dateFrom": "1526",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "36.5 × 36.5",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Albrecht_D%C3%BCrer_-_Johannes_Kleberger_-_Google_Art_Project.jpg/150px-Albrecht_D%C3%BCrer_-_Johannes_Kleberger_-_Google_Art_Project.jpg"
+        },
+        "compareDate": "1525-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of Hieronymus Holzschuher",
+        "dateFrom": "1526",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "51 × 37",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Albrecht_D%C3%BCrer_078.jpg/150px-Albrecht_D%C3%BCrer_078.jpg"
+        },
+        "compareDate": "1525-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Portrait of Jakob Muffel",
+        "dateFrom": "1526",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on canvas, transferred from panel",
+            "size": "48 × 36",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Albrecht_D%C3%BCrer_-_Jakob_Muffel_-_Google_Art_Project.jpg/150px-Albrecht_D%C3%BCrer_-_Jakob_Muffel_-_Google_Art_Project.jpg"
+        },
+        "compareDate": "1525-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Madonna and Child with the Pear",
+        "dateFrom": "1526",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "43 × 31",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Albrecht_D%C3%BCrer_061.jpg/150px-Albrecht_D%C3%BCrer_061.jpg"
+        },
+        "compareDate": "1525-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Work",
+        "title": "Way to Calvary",
+        "dateFrom": "1527",
+        "dateTo": "",
+        "extraInfo": {
+            "technique": "Oil on panel",
+            "size": "32 × 47",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Albrecht_D%C3%BCrer_-_Way_to_Calvary_-_WGA07030.jpg/150px-Albrecht_D%C3%BCrer_-_Way_to_Calvary_-_WGA07030.jpg"
+        },
+        "compareDate": "1526-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Publication of the Theory of Fortification book",
+        "dateFrom": "1527",
+        "dateTo": "",
+        "compareDate": "1526-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Durer's death.",
+        "dateFrom": "1528",
+        "dateTo": "",
+        "compareDate": "1527-11-19T22:00:00.000Z"
+    },
+    {
+        "evenType": "Life Event",
+        "title": "Death of Agnes Durer. In her will she left family money to endow a scholarship fund",
+        "dateFrom": "1539",
+        "dateTo": "",
+        "compareDate": "1538-11-19T22:00:00.000Z"
+    }
+]
