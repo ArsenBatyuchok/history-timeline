@@ -31,13 +31,13 @@
 
 .year-tick {
     // transform: scale(1,1.2);
-    stroke-width: 3;
+    stroke-width: 2;
     stroke: white;
 }
 
 .year-label {
     font-family: Georgia;
-    font-size: 16px;
+    font-size: 20px;
     fill: white; 
     text-anchor: middle;
 }
@@ -45,22 +45,20 @@
 @title-width: 250px;
 @title-height: 100px;
 .event-title {
-    font-family: Helvetica;
-    font-size: 14px; 
+    font-size: 16px;
+    line-height: 1.375;
     color: white;
-
-    // border: 1px solid white;
+    flex: 1 1 100%;
     text-align: center;
-    vertical-align: bottom;
-    // width: @title-width;
     height: @title-height;
-    display: table-cell;
+    max-width: 200px;
 }
 
 .event-body {
     background: none;
     margin: 0 auto;
     // width: @title-width;
+    display: flex;
 }
 
 .event-group > foreignobject {

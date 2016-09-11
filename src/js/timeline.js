@@ -24,7 +24,7 @@ var startTime = performance.now();
     });
 
     // unique years with an any event (no duplicates)
-    var eventYears = data.map(function(obj){ 
+    var eventYears = data.map(function(obj) { 
       return obj.yearFrom;
     }).filter(function(year, idx, allYears) {
       return allYears.indexOf(year) === idx;  // unique values only
@@ -44,7 +44,7 @@ var startTime = performance.now();
 
     //// SIZES, px ////
     // month ticks within a year
-    var yearWidth = 600, // the main parameter defining canvas properties
+    var yearWidth = 550, // the main parameter defining canvas properties
       yearScale = d3.scaleLinear().domain([0,12]).range([0, yearWidth]),
       monthTicks = d3.range(1,12+1).map(function(v){return Math.round(yearScale(v));});
 
@@ -53,7 +53,7 @@ var startTime = performance.now();
       tlHeight = 250,
       tlScale = d3.scaleBand().domain(yearsRange).range([0,tlWidth+yearWidth]).round(1),
       yearTicks = yearsRange.map(function(v){ return tlScale(v); }),
-      yearTickHeight = 50,
+      yearTickHeight = 38,
       monthTickHeight = 10;
 
 
@@ -76,7 +76,7 @@ var startTime = performance.now();
       .attr('class', 'timeline-baseline')
       .attr('x1', 0)
       .attr('y1', 0)
-      .attr('x2', tlWidth)
+      .attr('x2', 0)
       .attr('y2', 0);
 
     // year & month ticks
@@ -94,7 +94,7 @@ var startTime = performance.now();
 
         dThis.append('text')
           .attr('class', 'year-label')
-          .attr('y', -yearTickHeight)
+          .attr('y', 40)
           .attr('dy', -12)
           .attr('transform', 'scale(1,-1)')
           .text(d[0].yearFrom);
@@ -125,22 +125,20 @@ var startTime = performance.now();
           var textBodyMargin = lifeEvents.length===1? 200 : 50;
           var textBodyWidth = yearWidth / lifeEvents.length - textBodyMargin;
 
-          for (var i = 0; i < lifeEvents.length; i++) {
-            dThis.append('foreignObject')
-              .attr('x', i*textBodyWidth+textBodyMargin/2)
+          var textEl = dThis.append('foreignObject')
               .attr('y', -yearTickHeight)
-              .attr('width', textBodyWidth - textBodyMargin/2)
+              .attr('width', yearWidth)
               .attr('transform', 'scale(1,-1)')
               .append('xhtml:body')
-              .attr('class', 'event-body')
-              .append('div')
+              .attr('class', 'event-body');
+
+          for (var i = 0; i < lifeEvents.length; i++) {
+            textEl.append('div')
               .attr('class', 'event-title')
               .text(lifeEvents[i].title + '\n' + (lifeEvents[i].monthFrom || '') );
               // .text(function(d,i){d.title + '\n' + (d.monthFrom || '') });
           }
-        }
-
-        else {
+        } else {
           dThis.append('foreignObject')
             .attr('x', yearWidth/2)
             .attr('y', -yearTickHeight-40)
@@ -151,7 +149,7 @@ var startTime = performance.now();
             .append('div')
             .attr('class', 'event-title')
             .text(function(v){ return "Events: "+v.length; });
-        }
+          }
       });
 
 
