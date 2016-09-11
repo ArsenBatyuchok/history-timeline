@@ -106,7 +106,7 @@ var startTime = performance.now();
         var letters    = d.filter(function(v){ return v.eventType === 'Letter'; });
         var works      = d.filter(function(v){ return v.eventType === 'Work'; });
 
-        if (monthsArr.length > 0) {
+        // if (monthsArr.length > 0) {
           d3.range(1,12).forEach(function(m){
             var hasEventStr = monthsArr.indexOf(m) > -1 ? 'has-event' : '';
             var mTick = dThis.append('line')
@@ -116,7 +116,7 @@ var startTime = performance.now();
               .attr('y1', 1)
               .attr('y2', monthTickHeight);
           });
-        }
+        // }
 
         // console.log("LE: %s, L: %s, W: %s", lifeEvents.length, letters.length, works.length);
         // if (lifeEvents.length > 1) console.log(lifeEvents[0].dateFrom);
