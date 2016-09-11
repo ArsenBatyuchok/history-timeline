@@ -23,7 +23,7 @@ var startTime = performance.now();
       return d;
     });
 
-    // years with any events (and remove duplicates)
+    // unique years with an any event (no duplicates)
     var eventYears = data.map(function(obj){ 
       return obj.yearFrom;
     }).filter(function(year, idx, allYears) {
@@ -44,7 +44,7 @@ var startTime = performance.now();
 
     //// SIZES, px ////
     // month ticks within a year
-    var yearWidth = 400, // the main parameter defining canvas properties
+    var yearWidth = 600, // the main parameter defining canvas properties
       yearScale = d3.scaleLinear().domain([0,12]).range([0, yearWidth]),
       monthTicks = d3.range(1,12+1).map(function(v){return Math.round(yearScale(v));});
 
@@ -54,7 +54,7 @@ var startTime = performance.now();
       tlScale = d3.scaleBand().domain(yearsRange).range([0,tlWidth+yearWidth]).round(1),
       yearTicks = yearsRange.map(function(v){ return tlScale(v); }),
       yearTickHeight = 50,
-      monthTickHeight = 20;
+      monthTickHeight = 10;
 
 
     if (typeof window === 'undefined') {
@@ -99,31 +99,50 @@ var startTime = performance.now();
           .attr('transform', 'scale(1,-1)')
           .text(d[0].yearFrom);
         
-        if (d.filter(function(v){ return v.monthFrom; }).length > 0) {
+        var monthsArr = d.filter(function(v){return v.monthFrom})
+                         .map(function(v){return getMonthNum(v.monthFrom);});
+        
+        var lifeEvents = d.filter(function(v){ return v.eventType === 'Life Event'; });
+        var letters    = d.filter(function(v){ return v.eventType === 'Letter'; });
+        var works      = d.filter(function(v){ return v.eventType === 'Work'; });
+
+        if (monthsArr.length > 0) {
           d3.range(1,12).forEach(function(m){
-            dThis.append('line')
-              .attr('class', 'month-tick'+' '+m)
+            var hasEventStr = monthsArr.indexOf(m) > -1 ? 'has-event' : '';
+            var mTick = dThis.append('line')
+              .attr('class', 'month-tick'+' '+m+' '+hasEventStr)
               .attr('x1', Math.round(yearScale(m)))
               .attr('x2', Math.round(yearScale(m)))
+              .attr('y1', 1)
               .attr('y2', monthTickHeight);
           });
         }
 
-        if (d[0].evenType === 'Life Event' && d.length === 1) {
-          dThis.append('foreignObject')
-            .attr('x', 0)
-            .attr('y', -yearTickHeight-40)
-            .attr('width', yearWidth)
-            .attr('transform', 'scale(1,-1)')
-            .append('xhtml:body')
-            .attr('class', 'event-body')
-            .append('div')
-            .attr('class', 'event-title')
-            .text(function(v){ return v[0].title; });
+        // console.log("LE: %s, L: %s, W: %s", lifeEvents.length, letters.length, works.length);
+        // if (lifeEvents.length > 1) console.log(lifeEvents[0].dateFrom);
+
+        if (lifeEvents.length) {
+          var textBodyMargin = lifeEvents.length===1? 200 : 50;
+          var textBodyWidth = yearWidth / lifeEvents.length - textBodyMargin;
+
+          for (var i = 0; i < lifeEvents.length; i++) {
+            dThis.append('foreignObject')
+              .attr('x', i*textBodyWidth+textBodyMargin/2)
+              .attr('y', -yearTickHeight)
+              .attr('width', textBodyWidth - textBodyMargin/2)
+              .attr('transform', 'scale(1,-1)')
+              .append('xhtml:body')
+              .attr('class', 'event-body')
+              .append('div')
+              .attr('class', 'event-title')
+              .text(lifeEvents[i].title + '\n' + (lifeEvents[i].monthFrom || '') );
+              // .text(function(d,i){d.title + '\n' + (d.monthFrom || '') });
+          }
         }
+
         else {
           dThis.append('foreignObject')
-            .attr('x', 0)
+            .attr('x', yearWidth/2)
             .attr('y', -yearTickHeight-40)
             .attr('width', yearWidth)
             .attr('transform', 'scale(1,-1)')
@@ -131,14 +150,18 @@ var startTime = performance.now();
             .attr('class', 'event-body')
             .append('div')
             .attr('class', 'event-title')
-            .text(function(v){ return "Works: "+v.length; });
-
+            .text(function(v){ return "Events: "+v.length; });
         }
       });
 
 
     var timing = performance.now() - startTime;
     console.log('... d3 finished (%.1dms).', timing);
+  }
+
+  function getMonthNum(monthStr) {
+    var monthArr = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'];
+    return monthArr.indexOf(monthStr.match(/[A-Za-z]+/i)[0].toLowerCase())+1;
   }
 
   ///////////////////////////   DATA BINDING  //////////////////////////////////
