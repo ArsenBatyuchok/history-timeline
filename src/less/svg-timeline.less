@@ -2,8 +2,13 @@
 // • CSS transforms not supported in SVG !?
 // • margin/padding not applicable to svg elements
 
+.timeline-svg {
+    position: relative;
+    z-index: 1;
+    border-color: transparent;
+}
+
 #durer-timeline {
-    border: 2px solid #222;
     padding: 50px 40px;
 }
 
@@ -11,7 +16,6 @@
 //     transform: tranlsate(100, 100);  
 //     margin-left: 100px; 
 }
-
 
 .timeline-baseline {
     stroke-width: 2;
@@ -22,11 +26,11 @@
 .month-tick {
     // transform: scale(1,1.2);
     stroke-width: 1;
-    stroke: white;
+    stroke: #515151;
     &.has-event {
         transform: scale(1, 3);
         stroke-width: 1;
-        stroke: #AD5503;
+        stroke: #93836A;
     }
 }
 
@@ -53,6 +57,11 @@
     text-align: center;
     height: @title-height;
     max-width: 200px;
+    align-self: flex-end;
+}
+
+.event-date {
+    color: #93836A;
 }
 
 .event-body {

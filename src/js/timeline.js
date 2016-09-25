@@ -135,7 +135,10 @@ var startTime = performance.now();
           for (var i = 0; i < lifeEvents.length; i++) {
             textEl.append('div')
               .attr('class', 'event-title')
-              .text(lifeEvents[i].title + '\n' + (lifeEvents[i].monthFrom || '') );
+              .text(lifeEvents[i].title)
+              .append('div')
+              .attr('class', 'event-date')
+              .text(lifeEvents[i].monthFrom || '');
               // .text(function(d,i){d.title + '\n' + (d.monthFrom || '') });
           }
         } else {
