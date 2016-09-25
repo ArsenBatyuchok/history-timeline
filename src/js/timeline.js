@@ -50,7 +50,7 @@ var startTime = performance.now();
 
     // year ticks within whole timeline
     var tlWidth = yearWidth * (yearsRange.length-1),
-      tlHeight = 250,
+      tlHeight = 650,
       tlScale = d3.scaleBand().domain(yearsRange).range([0,tlWidth+yearWidth]).round(1),
       yearTicks = yearsRange.map(function(v){ return tlScale(v); }),
       yearTickHeight = 38,
@@ -126,6 +126,7 @@ var startTime = performance.now();
           var textBodyWidth = yearWidth / lifeEvents.length - textBodyMargin;
 
           var textEl = dThis.append('foreignObject')
+              .attr('class', 'life-event-wrapper')
               .attr('y', -yearTickHeight)
               .attr('width', yearWidth)
               .attr('transform', 'scale(1,-1)')
@@ -152,7 +153,25 @@ var startTime = performance.now();
             .append('div')
             .attr('class', 'event-title')
             .text(function(v){ return "Events: "+v.length; });
+        }
+
+        if (works.length) {
+          var imgContainer = dThis.append('foreignObject')
+            .attr('class', 'work-wrapper')
+            .attr('y', -tlHeight)
+            .attr('width', yearWidth)
+            .attr('transform', 'scale(1, -1)')
+            .append('xhtml:body')
+            .attr('class', 'work-body')
+            .append('div')
+            .attr('class', 'work-inner');
+          
+          for (var i = 0; i < works.length; i++) {
+            imgContainer.append('img')
+              .attr('width', 200)
+              .attr('src', works[i].extraInfo.imageURL);
           }
+        }
       });
 
 
