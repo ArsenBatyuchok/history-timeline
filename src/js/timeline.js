@@ -134,10 +134,10 @@ var startTime = performance.now();
               .attr('class', 'event-body');
 
           for (var i = 0; i < lifeEvents.length; i++) {
-            textEl.append('div')
+            textEl.append('xhtml:div')
               .attr('class', 'event-title')
               .text(lifeEvents[i].title)
-              .append('div')
+              .append('xhtml:div')
               .attr('class', 'event-date')
               .text(lifeEvents[i].monthFrom || '');
               // .text(function(d,i){d.title + '\n' + (d.monthFrom || '') });
@@ -150,7 +150,7 @@ var startTime = performance.now();
             .attr('transform', 'scale(1,-1)')
             .append('xhtml:body')
             .attr('class', 'event-body')
-            .append('div')
+            .append('xhtml:div')
             .attr('class', 'event-title')
             .text(function(v){ return "Events: "+v.length; });
         }
@@ -163,11 +163,13 @@ var startTime = performance.now();
             .attr('transform', 'scale(1, -1)')
             .append('xhtml:body')
             .attr('class', 'work-body')
-            .append('div')
+            .append('xhtml:div')
             .attr('class', 'work-inner');
           
           for (var i = 0; i < works.length; i++) {
-            imgContainer.append('img')
+            imgContainer.append('xhtml:div')
+              .attr('class', 'img-holder')
+              .append('xhtml:img')
               .attr('width', 200)
               .attr('src', works[i].extraInfo.imageURL);
           }
