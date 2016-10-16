@@ -173,6 +173,14 @@ var startTime = performance.now();
             imgItem.append('xhtml:div')
               .attr('class', 'title')
               .text(works[i].title);
+
+            imgItem.append('xhtml:div')
+              .attr('class', 'work-technique')
+              .text(works[i].extraInfo.technique);
+
+            imgItem.append('xhtml:div')
+              .attr('class', 'work-size')
+              .text(works[i].extraInfo.size);
               
             imgItem.append('xhtml:img')
               .attr('height', 280)
