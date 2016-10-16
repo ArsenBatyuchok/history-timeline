@@ -167,10 +167,15 @@ var startTime = performance.now();
             .attr('class', 'work-inner');
           
           for (var i = 0; i < works.length; i++) {
-            imgContainer.append('xhtml:div')
-              .attr('class', 'img-holder')
-              .append('xhtml:img')
-              .attr('width', 200)
+            var imgItem = imgContainer.append('xhtml:div')
+              .attr('class', 'img-holder');
+
+            imgItem.append('xhtml:div')
+              .attr('class', 'title')
+              .text(works[i].title);
+              
+            imgItem.append('xhtml:img')
+              .attr('height', 280)
               .attr('src', works[i].extraInfo.imageURL);
           }
         }
